@@ -1,0 +1,13 @@
+{
+  "name": "basebelk",
+  "version": "1.0.0",
+  "description": "ELK Stack for Baseball Analytics Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Pallotta",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
